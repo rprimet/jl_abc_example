@@ -1,0 +1,5 @@
+name: jlabc
+channels:
+  - conda-forge
+dependencies:
+  - nodejs
